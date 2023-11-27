@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varjo.XR", "Varjo.XR.csproj", "{33186603-6F20-FE89-C726-A969C5DBE937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{90C77C5F-EC74-EC15-199A-3C5020B3AA5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varjo.XR.Editor", "Varjo.XR.Editor.csproj", "{F756592C-22DA-0D4D-F32C-C27044AE6B92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33186603-6F20-FE89-C726-A969C5DBE937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33186603-6F20-FE89-C726-A969C5DBE937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33186603-6F20-FE89-C726-A969C5DBE937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33186603-6F20-FE89-C726-A969C5DBE937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90C77C5F-EC74-EC15-199A-3C5020B3AA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C77C5F-EC74-EC15-199A-3C5020B3AA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C77C5F-EC74-EC15-199A-3C5020B3AA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C77C5F-EC74-EC15-199A-3C5020B3AA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F756592C-22DA-0D4D-F32C-C27044AE6B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F756592C-22DA-0D4D-F32C-C27044AE6B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F756592C-22DA-0D4D-F32C-C27044AE6B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F756592C-22DA-0D4D-F32C-C27044AE6B92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
